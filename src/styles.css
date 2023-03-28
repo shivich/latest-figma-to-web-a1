@@ -1,0 +1,364 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background: #FFF8F0;
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #55206D;
+    line-height: 24px;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: League Spartan;
+    font-size: 48px;
+    line-height: 50px;
+    color: #190D37;
+    margin-top: 8px;
+    /*width: 680px;*/
+
+}
+
+.projectlink{
+    color:#6A87A3;
+    text-decoration: none;
+}
+
+.PPN-text {
+    color: #55206D;
+
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 96px;
+    width: 880px;
+    left: 370px;
+    top: 1608px;
+    border-radius: nullpx;
+}
+
+.project-PN {
+    color: #291854;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    height: 27px;
+    width: 125px;
+    left: 370px;
+    top: 1573px;
+    border-radius: nullpx;
+}
+
+#PN {
+    display: flex;
+    padding-top: 40px;
+    margin-left: 100px;
+    max-width: 1080px;
+    
+    margin: 20 auto;
+
+}
+
+#blue-PN {
+    background: #19ACFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    left: 190px;
+    top: 1571px;
+    width: 130px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    padding: 44px 20px 44px 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+
+#yellow-PN {
+    background: #FFE819;
+    border-radius: 10px;
+    color: #000000;
+    left: 190px;
+    top: 1571px;
+    width: 130px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    padding: 44px 20px 44px 20px;
+    margin-right: 20px;
+}
+
+#red-PN {
+    background: #FF1919;
+    border-radius: 10px;
+    color: #FFFFFF;
+    left: 190px;
+    top: 1571px;
+    width: 130px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+    text-align: center;
+    padding: 44px 20px 44px 20px;
+    margin-right: 20px;
+}
+
+.but {
+    background: #2F2F2F;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+
+    text-align: left;
+    margin-top: 20px;
+    padding: 8px 22px 8px 22px;
+
+   /* height: 19px;
+    width: 90px;
+    left: 214px;
+    top: 468px;
+    border-radius: nullpx;*/
+
+}
+
+.bigtext {
+    text-align: left;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #331E6A;
+    height: 128px;
+    /*width: 680px;*/
+    left: 190px;
+    top: 308px;
+}
+
+#contact {
+    /*width: 620px;*/
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: left;
+
+}
+
+#hero-section {
+    display: flex;
+    margin: 0 auto 70 auto;
+    max-width: 1220px;
+}
+
+#hero-text {
+    width: 50%;
+    padding-left: 20px;
+    max-width: 610px;
+    padding-right: 20px;
+    padding-top: 33px;
+    margin-left: 30px;
+   
+}
+
+#hero-image-sec {
+    width: 50%;
+    margin-top: 0;
+    padding-top: 0px;
+    max-width: 610px;
+}
+
+#hero-image {
+    width: 100%;
+    
+    
+   
+}
+
+h2 {
+    font-family: League Spartan;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    margin: 8 auto 8 auto;
+    color: #000000;
+    width: 686;
+    
+}
+
+#hi {
+    padding-top: 30px;
+    color: #291854;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    padding-bottom: 0px;
+    text-align: left;
+}
+
+.exp-text {
+    color: #190D37;
+    /*height: 81px;*/
+    width: 686px;
+    left: 370px;
+    
+    right: 370px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    color: #190D37;
+    margin: 0 auto 48px auto;
+}
+
+#second-section{
+    margin-top: 96px;
+}
+
+#profile {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 36px;
+    margin-bottom: 180px;
+    max-width: 1060px;
+    margin: 48 auto;
+  
+}
+
+.what-I {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #2858FF;
+    margin-bottom: 8px;
+    margin-top: 98px;
+    
+
+
+}
+
+.what {
+    /*margin-top: 40px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-bottom: 0px;*/
+    max-width: 1060px;
+    margin:38 auto;
+}
+
+#development {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #55206D;
+    height: 216px;
+    width: 300px;
+    left: 210px;
+    top: 994px;
+    padding: 5 20 100 20;
+    background: #FFFFFF;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px rgba(0, 0, 0, 0.1);
+}
+
+#development1 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #55206D;
+    height: 216px;
+    width: 300px;
+    left: 210px;
+    top: 994px;
+    padding: 5 20 100 20;
+    background: #FFFFFF;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px rgba(0, 0, 0, 0.1);;
+
+}
+
+#development2 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #55206D;
+    height: 216px;
+    width: 300px;
+    left: 210px;
+    top: 994px;
+    padding: 5 20 100 20;
+    background: #FFFFFF;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 6px 2px 25px -9px rgba(0, 0, 0, 0.1);;
+}
+
+h4 {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    height: 27px;
+    width: 300px;
+    left: 210px;
+    top: 959px;
+
+}
+
+#my-projects {
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #2858FF;
+
+}
+
+#footer {
+    text-align: center;
+    color: #FFFFFF;
+    background: #000000;
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    left: 0px;
+    margin-top: 100px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
